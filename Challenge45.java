@@ -10,7 +10,7 @@ public class Challenge45 {
 	 * 
 	 * You can use integers in your solution, but you cannot assign them using digits. Spelling out
 	 * a number's name or getting a number as a return value from a method are OK:
-	 * 	 int num = 1; //❌ not allowed
+	 *   int num = 1; //❌ not allowed
 	 *   char num = '1'; //❌ not allowed
 	 *   String num = "1"; //❌ not allowed
 	 *   int num = method(1); //❌ not allowed
