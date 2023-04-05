@@ -19,11 +19,6 @@ public class Challenge45 {
 	 *   int num = method(); //✅ allowed!
 	 * 
 	 * There are at least 3 different methods of doing this, so see how many you can find!
-	 * 
-	 * If you get stuck, here are some hints:
-	 *   https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
-	 *   https://docs.oracle.com/javase/7/docs/api/java/lang/Character.html
-	 *   https://docs.oracle.com/javase/7/docs/api/java/util/ArrayList.html
 	 */
 	
 	public static void methodOne() {
